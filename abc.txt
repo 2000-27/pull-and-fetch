@@ -9,11 +9,7 @@
 99999999999999999999
 111111111111111111
 2222222222222222
-aaaaaaaaaaaaaaa
-bbbbbbbbbbbbb
-ccccccccccccccccc
-dddddddddddddddddddd
-eeeeeeeeeeeeeeeee
+
 neetu
 anju
 komal
